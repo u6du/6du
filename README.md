@@ -1,4 +1,4 @@
-6du code repository index / 代码库清单
+# 6du code repository index / 代码库清单
 
 * [English Readme](#english-readme)
 * [中文说明](#中文说明)
